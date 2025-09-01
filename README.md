@@ -5,6 +5,7 @@
 </div>
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AzizDevX&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/AzizDevX?color=blueviolet&style=flat-square&label=Followers" alt="Followers" />
   <img src="https://img.shields.io/github/stars/AzizDevX?color=blueviolet&style=flat-square&label=Stars" alt="Stars" />
 </div>
@@ -97,8 +98,35 @@ const azizDevX = {
 ## 🔥 Featured Projects
 
 <div align="center">
+  <a href="https://github.com/AzizDevX/dynamic-portfolio">
+    <img src="https://raw.githubusercontent.com/AzizDevX/dynamic-portfolio/refs/heads/main/public/main.jpg" width="500" alt="Dynamic Portfolio Preview" />
+  </a>
+  
+  <h3>🚀 Dynamic Portfolio - MERN Stack</h3>
+  <p><em>A dynamic MERN-stack portfolio website for all—developers, designers, journalists. Update content, styles, projects, skills via an intuitive admin dashboard with a few clicks. Built with Node.js, Express, React, MongoDB, it's responsive, secure with JWT authentication, rate-limited contact forms, and easy to set up.</em></p>
+  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+  
+  <a href="https://github.com/AzizDevX/dynamic-portfolio">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+  </a>
+</div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AzizDevX&repo=dynamic-portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9)](https://github.com/AzizDevX/dynamic-portfolio)
+### 🌟 Other Notable Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| **[TodoMaster](https://github.com/AzizDevX/TodoMaster)** | Secure MERN-stack Todo website with JWT authentication, encrypted passwords, and isolated task management | MongoDB, Express, React, Node.js | ✅ Active |
+| **[Cannes Yachting](https://github.com/AzizDevX/cannes-yachting)** | Static React profile website with mobile-first responsive design and SEO optimization | React, HTML5, CSS3 | ✅ Active |
+| **[SyncDesk](https://github.com/AzizDevX/SyncDesk)** | Real-time collaboration tool for team productivity | JavaScript, Node.js | 🔄 Private |
+| **[Tasko](https://github.com/AzizDevX/tasko)** | Advanced task management system with MIT License | JavaScript | 🔄 Private |
+| **[BestBot](https://www.bestbot.tn)** | Large Discord bot serving Tunisian community | Node.js, Discord.js | 📦 Archived |
 
 </div>
 
@@ -139,6 +167,10 @@ const azizDevX = {
 ## 📈 Contribution Activity
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/AzizDevX/AzizDevX/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzizDevX&theme=tokyonight" alt="Contribution Graph" />
 </div>
 
@@ -160,7 +192,7 @@ const azizDevX = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azizkammoun)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azizkammoun1919@gmail.com)
+[![Email](https://img.shields.io/badge/azizkammoun1919@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azizkammoun1919@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/AzizDevX)
 [![Discord Bot](https://img.shields.io/badge/BestBot-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.bestbot.tn)
 
