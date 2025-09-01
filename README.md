@@ -1,11 +1,10 @@
 # 👋 Hello, I'm Aziz DevX!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Full-Stack+Developer+%7C+MERN+Stack;Security+Enthusiast+%7C+Crypto+Explorer;Passionate+About+Clean+Code+%26+Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Backend+Developer+%7C+MERN+Stack;Security+Enthusiast+%7C+Linux+Administrator;Passionate+About+Clean+Code+%26+Innovation" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AzizDevX&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/AzizDevX?color=blueviolet&style=flat-square&label=Followers" alt="Followers" />
   <img src="https://img.shields.io/github/stars/AzizDevX?color=blueviolet&style=flat-square&label=Stars" alt="Stars" />
 </div>
@@ -18,17 +17,18 @@
 const azizDevX = {
     pronouns: "He/Him",
     location: "Tunisia 🇹🇳",
-    currentFocus: ["Full-Stack Development", "Cybersecurity", "Blockchain"],
-    learning: ["Advanced React Patterns", "Security Testing", "Web3 Development"],
-    askMeAbout: ["MERN Stack", "Security Best Practices", "Crypto", "API Design"],
+    currentFocus: ["Backend Development", "Web Security", "Linux Administration"],
+    learning: ["Advanced Node.js Patterns", "Security Testing", "CTF Challenges"],
+    askMeAbout: ["MongoDB", "Express.js", "Node.js", "API Security", "Linux VPS"],
     technologies: {
-        frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS", "Redux"],
-        backend: ["Node.js", "Express", "MongoDB", "PostgreSQL", "Redis"],
-        security: ["JWT", "OAuth 2.0", "Encryption", "Penetration Testing"],
-        devops: ["Docker", "AWS", "CI/CD", "Nginx"],
-        tools: ["Git", "Postman", "VS Code", "Linux", "Figma"]
+        backend: ["Node.js", "Express.js", "MongoDB", "PostgreSQL", "Redis"],
+        frontend: ["React", "JavaScript", "HTML5", "CSS3", "Bootstrap"],
+        security: ["JWT", "OAuth 2.0", "Encryption", "Firewall Configuration"],
+        devops: ["Linux (Ubuntu)", "Apache", "VPS Management", "DNS Configuration"],
+        tools: ["Postman", "Git", "VS Code", "fail2ban", "SSH Security"]
     },
-    funFact: "I debug code faster than I debug my life! 😄"
+    projects: ["Discord Bots", "Web Applications", "Security Tools", "VPS Hosting"],
+    funFact: "I debug servers faster than I debug my sleep schedule! 😄"
 };
 ```
 
@@ -38,37 +38,32 @@ const azizDevX = {
 
 <div align="center">
 
-### 💻 Frontend Development
+### 💻 Frontend Development (Learning)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ⚡ Backend Development
+### ⚡ Backend Development (My Strength)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🔐 Security & Blockchain
+### 🔐 Security & Administration
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
 ### 🛠️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 </div>
 
@@ -110,23 +105,33 @@ const azizDevX = {
 ### 🌟 Project Categories
 
 ```
-🔐 Security Projects
+🔐 Security & System Administration
 ├── 🛡️ Secure Authentication System (JWT + 2FA)
-├── 🔍 Vulnerability Scanner
-├── 🚫 XSS & SQL Injection Prevention Tools
-└── 🔒 Encryption & Decryption Utilities
+├── 🔍 Web Vulnerability Scanner Tools
+├── 🚫 API Security & Rate Limiting
+├── 🔒 Linux VPS Security Configuration
+└── 🛠️ Discord Bot Development (BestBot - www.bestbot.tn)
 
 💻 MERN Stack Applications
-├── 🛒 E-commerce Platform with Payment Integration
-├── 💬 Real-time Chat Application
-├── 📊 Analytics Dashboard
-└── 🎯 Task Management System
+├── 🌐 Dynamic Portfolio Website (MERN)
+├── 🏢 Cannes Yachting Profile Website
+├── ✅ TodoMaster - Secure Task Management
+├── 📊 SyncDesk - Real-time Collaboration Tool
+└── 📋 Tasko - Advanced Task Management
 
-🌐 Web3 & Blockchain
-├── 🪙 Cryptocurrency Tracker
-├── 🎮 NFT Marketplace
-├── 📜 Smart Contract Auditing Tools
-└── 💰 DeFi Portfolio Manager
+🖥️ Backend & API Development
+├── 🚀 RESTful APIs with Express.js
+├── 🗄️ MongoDB Database Design & Optimization
+├── 🔄 Real-time Applications with Socket.io
+├── 🔐 Authentication & Authorization Systems
+└── 📈 Performance Monitoring & Analytics
+
+🐧 Linux System Administration
+├── 🖥️ Ubuntu VPS Management & Configuration
+├── 🌐 Apache Web Server Setup & Optimization
+├── 🔒 SSH Security & fail2ban Configuration
+├── 🌍 DNS Management & Domain Configuration
+└── 🔥 Firewall Configuration & Port Management
 ```
 
 ---
@@ -134,18 +139,19 @@ const azizDevX = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AzizDevX/AzizDevX/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzizDevX&theme=tokyonight" alt="Contribution Graph" />
 </div>
 
 ---
 
 ## 🎯 Current Goals
 
-- [ ] 🔐 Complete Advanced Web Security Certification
-- [ ] 🚀 Build and deploy 5 production-ready MERN applications
-- [ ] 🏆 Contribute to 10 open-source security projects
-- [ ] 📚 Master Web3 development and smart contracts
-- [ ] 🎖️ Earn bug bounty recognition on major platforms
+- [ ] 🔐 Master Advanced Node.js Security Patterns
+- [ ] 🚀 Build and deploy 10 production-ready APIs
+- [ ] 🏆 Contribute to open-source backend projects
+- [ ] 📚 Advance in CTF competitions and security challenges
+- [ ] 🖥️ Complete Linux System Administration certification
+- [ ] 🛡️ Develop advanced security tools for web applications
 
 ---
 
@@ -153,11 +159,10 @@ const azizDevX = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/azizdevx)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/azizdevx)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://azizdevx.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@azizdevx.dev)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/azizdevx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azizkammoun)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azizkammoun1919@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/AzizDevX)
+[![Discord Bot](https://img.shields.io/badge/BestBot-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.bestbot.tn)
 
 </div>
 
@@ -169,11 +174,11 @@ const azizDevX = {
 
 | 🎯 **Specialization** | 📊 **Proficiency** | 🚀 **Projects** |
 |----------------------|-------------------|------------------|
-| **MERN Stack** | ⭐⭐⭐⭐⭐ | 15+ Projects |
-| **Web Security** | ⭐⭐⭐⭐☆ | 8+ Tools Built |
-| **API Development** | ⭐⭐⭐⭐⭐ | 20+ APIs Created |
-| **Database Design** | ⭐⭐⭐⭐☆ | 12+ Schemas |
-| **DevOps** | ⭐⭐⭐☆☆ | 6+ Deployments |
+| **Backend Development** | ⭐⭐⭐⭐⭐ | 20+ APIs Built |
+| **MongoDB & Express** | ⭐⭐⭐⭐⭐ | 15+ Databases |
+| **Linux Administration** | ⭐⭐⭐⭐☆ | Multiple VPS |
+| **Web Security** | ⭐⭐⭐⭐☆ | 8+ Security Tools |
+| **Frontend (React)** | ⭐⭐⭐☆☆ | 6+ Projects |
 
 </div>
 
@@ -183,11 +188,12 @@ const azizDevX = {
 
 > 💡 **"Code is like humor. When you have to explain it, it's bad."** - Cory House
 
-- 🔥 I can solve a Rubik's cube while thinking about algorithms
-- 🌙 I code best during late-night sessions with some good music
-- 🛡️ I find security vulnerabilities as a hobby (ethically, of course!)
-- 🎮 When not coding, I'm probably gaming or exploring new tech trends
-- ☕ Coffee-driven developer - my code quality is directly proportional to my caffeine intake
+- 🔥 I can configure a Linux server while debugging Node.js APIs
+- 🌙 I code best during late-night sessions with some good coffee
+- 🛡️ I find security vulnerabilities and secure systems as a hobby
+- 🎮 When not coding, I'm solving CTF challenges or managing my VPS
+- ☕ Coffee-driven developer - my server uptime is directly proportional to my caffeine intake
+- 🤖 Created BestBot - a large Discord bot that served the Tunisian community
 
 ---
 
