@@ -192,7 +192,7 @@ const azizDevX = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azizkammoun)
-[![Email](https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azizkammoun1919@gmail.com?subject=Hello%20Aziz&body=Hi%20Aziz,%0A%0AI%20found%20your%20GitHub%20profile%20and%20wanted%20to%20reach%20out...)
+[![Email](https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azizkammoun1919@gmail.com?subject=Hello%20Aziz&body=Hi%20Aziz%2C%0A%0AI%20found%20your%20GitHub%20profile%20and%20wanted%20to%20reach%20out)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/AzizDevX)
 [![Discord Bot](https://img.shields.io/badge/BestBot-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.bestbot.tn)
 
