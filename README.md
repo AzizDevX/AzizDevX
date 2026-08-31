@@ -1,7 +1,7 @@
-# 👋 Hello, I'm Aziz DevX!
+# 👋 Hi, I'm Aziz Kammoun
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Backend+Developer+%7C+MERN+Stack;Security+Enthusiast+%7C+Linux+Administrator;Passionate+About+Clean+Code+%26+Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1800&color=A855F7&center=true&vCenter=true&width=900&lines=Backend-Focused+Full-Stack+Developer;Node.js+%7C+Express+%7C+MongoDB+%7C+PostgreSQL;Building+Dynamic+Web+Applications+%26+E-commerce" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -13,6 +13,12 @@
 ---
 
 ## 🚀 About Me
+
+I'm a **Software Engineering student and backend-focused full-stack developer from Tunisia**, interested in building practical and scalable web applications.
+
+My main focus is **backend development with Node.js and Express**, while also working with React and modern frontend technologies. I enjoy building complete systems where the backend, database, authentication, administration, and deployment work together as one product.
+
+I have experience developing **personal projects, university applications, client-facing platforms, freelance work, and long-term projects**. I'm particularly interested in backend architecture, APIs, databases, e-commerce systems, and turning ideas into complete working applications.
 
 ```javascript
 const azizDevX = {
@@ -35,46 +41,142 @@ const azizDevX = {
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Frontend Development (Learning)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+### ⚡ Backend & Databases
 
-### ⚡ Backend Development (My Strength)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
 
-### 🔐 Security & Administration
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+### 💻 Frontend
 
-### 🛠️ DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+
+### 🔐 Security & Infrastructure
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu\&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge\&logo=apache\&logoColor=white)
+
+### 🧰 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+# 💼 Real-World Work
+
+### 🛒 SFM Family — E-commerce Platform
+
+**[sfmfamily.tn](https://www.sfmfamily.tn)**
+
+Developed and deployed an e-commerce platform for SFM Family, including application configuration, hosting, deployment, and technical maintenance.
+
+This project gave me practical experience working on a real client-facing e-commerce platform, from development and configuration to deployment and hosting.
+
+> The website may occasionally be unavailable when the client's hosting service is not renewed.
+
+---
+
+### 🛍️ Metchy.tn — Personal E-commerce
+
+**[metchy.tn](https://www.metchy.tn)**
+
+My own e-commerce website focused on accessories, including couple accessories, women's accessories, and men's wallets.
+
+The project allows me to work on e-commerce architecture, product presentation, frontend design, deployment, hosting, and real-world website management.
+
+> The website may occasionally be unavailable when my hosting service is not renewed.
+
+---
+
+### 🏢 FavShopCommerce — E-commerce / ERP
+
+**Private project — In progress**
+
+A larger private e-commerce and business-management platform currently under development.
+
+The goal is to build a system closer to an **e-commerce ERP platform** rather than a simple online store, with a highly dynamic architecture and a wide range of management features.
+
+Current development areas include:
+
+* 🌍 Multi-language support
+* 📦 Dynamic product and catalog management
+* ⚙️ Advanced administration and business workflows
+* 📊 Management and operational features
+* 📣 Marketing integrations
+* 📈 Meta Ads-related functionality
+* 🧩 Centralized dynamic configuration
+
+**Status:** 🔄 In Progress · 🔒 Private
+
+---
+
+# 🚀 Featured Projects
+
+## ⭐ Main Project
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AzizDevX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizDevX&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9"/>
+
+<a href="https://github.com/AzizDevX/dynamic-portfolio">
+  <img src="https://raw.githubusercontent.com/AzizDevX/dynamic-portfolio/refs/heads/main/public/main.jpg" width="700" alt="Dynamic Portfolio Preview" />
+</a>
+
+<h3>Dynamic Portfolio — MERN Stack</h3>
+
+<p>
+  A fully dynamic portfolio platform with a complete administration dashboard.
+  The portfolio owner can manage projects, content, skills, and website styling
+  directly from the dashboard without modifying the source code.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white">
+</p>
+
+<a href="https://github.com/AzizDevX/dynamic-portfolio">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+</a>
+
+</div>
+
+---
+
+## 📌 Other Projects
+
+| Project                                                                               | Description                                                                                                                                                                               | Tech Stack                            | Status       |
+| ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | ------------ |
+| **[🎓 Lost & Found — University Portal](https://github.com/AzizDevX/lost-And-Found)** | University project developed for Ted University to report, search, and reclaim lost belongings across campus.                                                                             | React, JavaScript                     | 🟢 Completed |
+| **[🌊 Cannes Yachting](https://github.com/AzizDevX/cannes-yachting)**                 | Frontend-only React website developed during my first internship at Deveoo for a yacht services business.                                                                                 | React, JavaScript, HTML5, CSS3        | 🟢 Completed |
+| **[✅ TodoMaster](https://github.com/AzizDevX/TodoMaster)**                            | Full-stack Todo application with authentication and user-specific task management.                                                                                                        | MongoDB, Express, React, Node.js, JWT | 🟢 Completed |
+| **[🤖 BestBot](https://github.com/AzizDevX/BestBot)**                                 | Discord bot originally created in 2019 and operated until 2025. A long-running project that gave me experience with backend development, APIs, databases, and maintaining a real service. | Node.js, Discord.js                   | 📦 Archived  |
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AzizDevX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9" alt="GitHub Statistics" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizDevX&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -87,149 +189,17 @@ const azizDevX = {
 
 ---
 
-## 🏆 Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AzizDevX&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🔥 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/AzizDevX/dynamic-portfolio">
-    <img src="https://raw.githubusercontent.com/AzizDevX/dynamic-portfolio/refs/heads/main/public/main.jpg" width="500" alt="Dynamic Portfolio Preview" />
-  </a>
-  
-  <h3>🚀 Dynamic Portfolio - MERN Stack</h3>
-  <p><em>A dynamic MERN-stack portfolio website for all—developers, designers, journalists. Update content, styles, projects, skills via an intuitive admin dashboard with a few clicks. Built with Node.js, Express, React, MongoDB, it's responsive, secure with JWT authentication, rate-limited contact forms, and easy to set up.</em></p>
-  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-  ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-  
-  <a href="https://github.com/AzizDevX/dynamic-portfolio">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
-  </a>
-</div>
-
-### 🌟 Other Notable Projects
+# 📫 Let's Connect
 
 <div align="center">
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| **[TodoMaster](https://github.com/AzizDevX/TodoMaster)** | Secure MERN-stack Todo website with JWT authentication, encrypted passwords, and isolated task management | MongoDB, Express, React, Node.js | ✅ Active |
-| **[Cannes Yachting](https://github.com/AzizDevX/cannes-yachting)** | Static React profile website with mobile-first responsive design and SEO optimization | React, HTML5, CSS3 | ✅ Active |
-| **[SyncDesk](https://github.com/AzizDevX/SyncDesk)** | Real-time collaboration tool for team productivity | JavaScript, Node.js | 🔄 Private |
-| **[Tasko](https://github.com/AzizDevX/tasko)** | Advanced task management system with MIT License | JavaScript | 🔄 Private |
-| **[BestBot](https://www.bestbot.tn)** | Large Discord bot serving Tunisian community | Node.js, Discord.js | 📦 Archived |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/azizkammoun)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:azizkammoun1919@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge\&logo=firefox\&logoColor=white)](https://www.azizkamoun.com)
 
 </div>
-
-### 🌟 Project Categories
-
-```
-🔐 Security & System Administration
-├── 🛡️ Secure Authentication System (JWT + 2FA)
-├── 🔍 Web Vulnerability Scanner Tools
-├── 🚫 API Security & Rate Limiting
-├── 🔒 Linux VPS Security Configuration
-└── 🛠️ Discord Bot Development (BestBot - www.bestbot.tn)
-
-💻 MERN Stack Applications
-├── 🌐 Dynamic Portfolio Website (MERN)
-├── 🏢 Cannes Yachting Profile Website
-├── ✅ TodoMaster - Secure Task Management
-├── 📊 SyncDesk - Real-time Collaboration Tool
-└── 📋 Tasko - Advanced Task Management
-
-🖥️ Backend & API Development
-├── 🚀 RESTful APIs with Express.js
-├── 🗄️ MongoDB Database Design & Optimization
-├── 🔄 Real-time Applications with Socket.io
-├── 🔐 Authentication & Authorization Systems
-└── 📈 Performance Monitoring & Analytics
-
-🐧 Linux System Administration
-├── 🖥️ Ubuntu VPS Management & Configuration
-├── 🌐 Apache Web Server Setup & Optimization
-├── 🔒 SSH Security & fail2ban Configuration
-├── 🌍 DNS Management & Domain Configuration
-└── 🔥 Firewall Configuration & Port Management
-```
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AzizDevX/AzizDevX/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AzizDevX&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzizDevX&theme=tokyonight" alt="Contribution Details" />
-</div>
-
----
-
-## 🎯 Current Goals
-
-- [ ] 🔐 Master Advanced Node.js Security Patterns
-- [ ] 🚀 Build and deploy 10 production-ready APIs
-- [ ] 🏆 Contribute to open-source backend projects
-- [ ] 📚 Advance in CTF competitions and security challenges
-- [ ] 🖥️ Complete Linux System Administration certification
-- [ ] 🛡️ Develop advanced security tools for web applications
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azizkammoun)
-[![Email](https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azizkammoun1919@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/AzizDevX)
-[![Discord Bot](https://img.shields.io/badge/BestBot-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.bestbot.tn)
-
-</div>
-
----
-
-## 💼 Professional Focus
-
-<div align="center">
-
-| 🎯 **Specialization** | 📊 **Proficiency** | 🚀 **Projects** |
-|----------------------|-------------------|------------------|
-| **Backend Development** | ⭐⭐⭐⭐⭐ | 20+ APIs Built |
-| **MongoDB & Express** | ⭐⭐⭐⭐⭐ | 15+ Databases |
-| **Linux Administration** | ⭐⭐⭐⭐☆ | Multiple VPS |
-| **Web Security** | ⭐⭐⭐⭐☆ | 8+ Security Tools |
-| **Frontend (React)** | ⭐⭐⭐☆☆ | 6+ Projects |
-
-</div>
-
----
-
-## 🌟 Fun Facts About Me
-
-> 💡 **"Code is like humor. When you have to explain it, it's bad."** - Cory House
-
-- 🔥 I can configure a Linux server while debugging Node.js APIs
-- 🌙 I code best during late-night sessions with some good coffee
-- 🛡️ I find security vulnerabilities and secure systems as a hobby
-- 🎮 When not coding, I'm solving CTF challenges or managing my VPS
-- ☕ Coffee-driven developer - my server uptime is directly proportional to my caffeine intake
-- 🤖 Created BestBot - a large Discord bot that served the Tunisian community
 
 ---
 
@@ -237,10 +207,6 @@ const azizDevX = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=75" />
 </div>
 
----
-
 <div align="center">
-  <b>⭐ Star my repositories if you find them useful! ⭐</b>
-  <br><br>
-  <i>Open to collaboration and exciting opportunities!</i>
+  <i>Open to collaboration, freelance projects, and new opportunities.</i>
 </div>
