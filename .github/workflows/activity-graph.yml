@@ -1,0 +1,33 @@
+name: Update Activity Graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Generate Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: AzizDevX
+          options: theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&title_color=A855F7&line=A855F7&point=FFFFFF&area=true&area_color=A855F7
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish Activity Graph
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
