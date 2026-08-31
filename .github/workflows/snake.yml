@@ -20,14 +20,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: AzizDevX
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
+      # Generate Activity Graph FIRST
       - name: Generate Activity Graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
@@ -36,6 +29,16 @@ jobs:
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # Generate Snake AFTER
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: AzizDevX
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      # Deploy everything together
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
