@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate GitHub Profile Assets
 
 on:
   schedule:
@@ -6,26 +6,37 @@ on:
   workflow_dispatch:
   push:
     branches:
-    - main
+      - main
+
+permissions:
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
+
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
-        
-      - name: Generate snake svg
+        uses: actions/checkout@v4
+
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: AzizDevX
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            
-      - name: Deploy to GitHub Pages
+
+      - name: Generate Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: AzizDevX
+          options: theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&title_color=A855F7&line=A855F7&point=FFFFFF&area=true
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
