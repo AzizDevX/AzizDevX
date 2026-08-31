@@ -175,16 +175,37 @@ Current development areas include:
 # 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AzizDevX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9" alt="GitHub Statistics" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizDevX&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Top Languages" />
+
+<img
+  height="180em"
+  src="./profile/stats.svg"
+  alt="GitHub Statistics"
+/>
+
+<img
+  height="180em"
+  src="./profile/top-langs.svg"
+  alt="Top Languages"
+/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzizDevX&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
+
+<img
+  src="https://github-readme-streak-stats.sherlox.io/?user=AzizDevX&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7"
+  alt="GitHub Streak"
+/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AzizDevX&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+
+<img
+  src="https://raw.githubusercontent.com/AzizDevX/AzizDevX/output/activity-graph.svg"
+  alt="GitHub Activity Graph"
+/>
+
 </div>
 
 ---
