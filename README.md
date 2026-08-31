@@ -214,11 +214,7 @@ Current development areas include:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/azizkammoun)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:azizkammoun1919@gmail.com)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge\&logo=firefox\&logoColor=white)](https://www.azizkamoun.com)
+<a href="https://www.linkedin.com/in/azizkammoun"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> &nbsp; <a href="mailto:azizkammoun1919@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> &nbsp; <a href="https://www.azizkamoun.com"> <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /> </a>
 
 </div>
 
